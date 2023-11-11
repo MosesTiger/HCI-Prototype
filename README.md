@@ -9,6 +9,9 @@
 그 화면을 기반으로 스택들을 선택하게 하는 방식을 적용했다.
 모든 기능들을 체계적으로 관리하고자, 모든 기능에 접근할 수 있는 홈 화면을 추가했다. </pre>
 
-// code Link: [Oranclc][ovenlink]
+## 프로토타입 설명 및 사용방법
+<pre> </pre>
 
+## 링크
+Link: [Oranclc][ovenlink]
 [ovenlink]: https://ovenapp.io/view/RVH9T8uqXhZunx9ZTwORZxmO2ZkOkC7d#6qcOI
